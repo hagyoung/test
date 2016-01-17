@@ -1,15 +1,9 @@
-*# :alien: welcome :alien:*
+# welcome
+## hello
 
-*이텔릭체*
-_이텔체_
-
-**볼드**
-__볼드__
-
-- 리스트
-- item
-  1. item2-1
-  2. item2-2
+- menu
+  1. item
+  2. 
 + item2
   - item2-1
 
